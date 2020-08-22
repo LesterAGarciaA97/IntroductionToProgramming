@@ -1,0 +1,9 @@
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\bin\Debug\Lab10_Arreglos.exe.config
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\bin\Debug\Lab10_Arreglos.exe
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\bin\Debug\Lab10_Arreglos.pdb
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\obj\Debug\Lab10_Arreglos.csprojResolveAssemblyReference.cache
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\obj\Debug\Lab10_Arreglos.Form1.resources
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\obj\Debug\Lab10_Arreglos.Properties.Resources.resources
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\obj\Debug\Lab10_Arreglos.csproj.GenerateResource.Cache
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\obj\Debug\Lab10_Arreglos.exe
+c:\users\g301\documents\visual studio 2013\Projects\Lab10_Arreglos\Lab10_Arreglos\obj\Debug\Lab10_Arreglos.pdb

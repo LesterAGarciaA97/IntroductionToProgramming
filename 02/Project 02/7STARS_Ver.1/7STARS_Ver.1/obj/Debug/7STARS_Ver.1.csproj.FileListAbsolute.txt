@@ -1,0 +1,30 @@
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe.config
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.pdb
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.csprojResolveAssemblyReference.cache
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\_7STARS_Ver._1.Form1.resources
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\_7STARS_Ver._1.Properties.Resources.resources
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.csproj.GenerateResource.Cache
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.exe
+C:\Users\Victor M\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.pdb
+E:\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe.config
+E:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.exe
+E:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.pdb
+E:\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe
+E:\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.pdb
+E:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.csprojResolveAssemblyReference.cache
+E:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\_7STARS_Ver._1.Form1.resources
+E:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\_7STARS_Ver._1.Properties.Resources.resources
+E:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.csproj.GenerateResource.Cache
+H:\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe.config
+H:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.exe
+H:\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.pdb
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe.config
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.exe
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.pdb
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.exe
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\bin\Debug\7STARS_Ver.1.pdb
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\_7STARS_Ver._1.Form1.resources
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\_7STARS_Ver._1.Properties.Resources.resources
+C:\Users\Lester\Desktop\7STARS_Ver.1\7STARS_Ver.1\obj\Debug\7STARS_Ver.1.csproj.GenerateResource.Cache

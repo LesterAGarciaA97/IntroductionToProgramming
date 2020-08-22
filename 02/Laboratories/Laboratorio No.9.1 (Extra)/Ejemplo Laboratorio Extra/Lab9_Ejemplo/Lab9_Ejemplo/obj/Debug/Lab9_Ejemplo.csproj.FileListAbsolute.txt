@@ -1,0 +1,18 @@
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\bin\Debug\Lab9_Ejemplo.exe.config
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\bin\Debug\Lab9_Ejemplo.exe
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\bin\Debug\Lab9_Ejemplo.pdb
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.csprojResolveAssemblyReference.cache
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.Form1.resources
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.Properties.Resources.resources
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.csproj.GenerateResource.Cache
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.exe
+c:\users\g301\documents\visual studio 2013\Projects\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.pdb
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\bin\Debug\Lab9_Ejemplo.exe.config
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.exe
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.pdb
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\bin\Debug\Lab9_Ejemplo.exe
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\bin\Debug\Lab9_Ejemplo.pdb
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.csprojResolveAssemblyReference.cache
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.Form1.resources
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.Properties.Resources.resources
+C:\Users\30122028\Documents\Intro-2015\Lab9_Ejemplo\Lab9_Ejemplo\obj\Debug\Lab9_Ejemplo.csproj.GenerateResource.Cache

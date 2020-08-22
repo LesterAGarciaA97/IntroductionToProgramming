@@ -1,0 +1,28 @@
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.exe.config
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.exe
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.pdb
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2__y__3.Form1.resources
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2__y__3.Properties.Resources.resources
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.exe
+C:\Users\Lester\Desktop\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.pdb
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.exe.config
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.exe
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.pdb
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.exe
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.pdb
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2__y__3.Form1.resources
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2__y__3.Properties.Resources.resources
+C:\Users\Lester\Desktop\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csproj.GenerateResource.Cache
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.exe.config
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.exe
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\bin\Debug\Incisos_1_2_ y_ 3.pdb
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csprojAssemblyReference.cache
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2__y__3.Form1.resources
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2__y__3.Properties.Resources.resources
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csproj.GenerateResource.cache
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.csproj.CoreCompileInputs.cache
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.exe
+D:\Documentos\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.9\Laboratorio No.9\Incisos_1_2_ y_ 3\Incisos_1_2_ y_ 3\obj\Debug\Incisos_1_2_ y_ 3.pdb

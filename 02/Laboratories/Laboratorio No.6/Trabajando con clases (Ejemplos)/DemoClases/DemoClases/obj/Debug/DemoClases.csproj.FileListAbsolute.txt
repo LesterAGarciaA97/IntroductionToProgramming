@@ -1,0 +1,9 @@
+c:\users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\bin\Debug\DemoClases.exe.config
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\bin\Debug\DemoClases.exe
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\bin\Debug\DemoClases.pdb
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\obj\Debug\DemoClases.csprojResolveAssemblyReference.cache
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\obj\Debug\DemoClases.Form1.resources
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\obj\Debug\DemoClases.Properties.Resources.resources
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\obj\Debug\DemoClases.csproj.GenerateResource.Cache
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\obj\Debug\DemoClases.exe
+C:\Users\tuxtor\documents\visual studio 2013\Projects\DemoClases\DemoClases\obj\Debug\DemoClases.pdb

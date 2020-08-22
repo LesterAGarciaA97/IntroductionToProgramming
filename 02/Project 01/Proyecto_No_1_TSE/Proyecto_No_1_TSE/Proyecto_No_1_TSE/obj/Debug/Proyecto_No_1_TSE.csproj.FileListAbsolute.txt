@@ -1,0 +1,22 @@
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\bin\Debug\Proyecto_No_1_TSE.exe.config
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\bin\Debug\Proyecto_No_1_TSE.exe
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\bin\Debug\Proyecto_No_1_TSE.pdb
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Form1.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Properties.Resources.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.exe
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.pdb
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Form2.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Login.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Administrador.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Papeleta_1.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Papeleta_2.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Papeleta_3.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Papeleta_5.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Papeleta_4.resources
+C:\Users\Lester\Desktop\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.Votante.resources
+C:\Users\Lester\Documents\Universidad Rafael Landívar\Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Proyecto 1\Proyecto_No_1_TSE\Proyecto_No_1_TSE\Proyecto_No_1_TSE\bin\Debug\Proyecto_No_1_TSE.exe.config
+C:\Users\Lester\Documents\Universidad Rafael Landívar\Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Proyecto 1\Proyecto_No_1_TSE\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.exe
+C:\Users\Lester\Documents\Universidad Rafael Landívar\Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Proyecto 1\Proyecto_No_1_TSE\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.pdb
+C:\Users\leste\Documents\Universidad Rafael Landívar\3. Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Proyecto 1\Proyecto_No_1_TSE\Proyecto_No_1_TSE\Proyecto_No_1_TSE\obj\Debug\Proyecto_No_1_TSE.pdb

@@ -1,0 +1,27 @@
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.exe.config
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.exe
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.pdb
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.csprojResolveAssemblyReference.cache
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.Form1.resources
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.Properties.Resources.resources
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.csproj.GenerateResource.Cache
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.exe
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.pdb
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.exe.config
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.exe
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.pdb
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.exe
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.pdb
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.csprojResolveAssemblyReference.cache
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.Form1.resources
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.Properties.Resources.resources
+C:\Users\g301\Downloads\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.csproj.GenerateResource.Cache
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.exe.config
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.exe
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.pdb
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.exe
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\bin\Debug\Lab_Repetitivas.pdb
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.csprojResolveAssemblyReference.cache
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.Form1.resources
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.Properties.Resources.resources
+C:\Users\30122028\Desktop\Lab_Repetitivas\Lab_Repetitivas\Lab_Repetitivas\obj\Debug\Lab_Repetitivas.csproj.GenerateResource.Cache

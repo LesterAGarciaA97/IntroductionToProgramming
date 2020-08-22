@@ -1,0 +1,6 @@
+Arreglos
+multidimensionales [3,3]
+el primer numero dentro de las coordenadas es el eje y, las filas, y el sugundo es el eje x, las columnas
+
+int [] Numeros = new int [10] //unidemensional
+int [,] Numeros = new int [10,10] //Multidimensional

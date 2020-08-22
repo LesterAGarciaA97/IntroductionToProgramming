@@ -1,0 +1,18 @@
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\bin\Debug\Lab_POO.exe.config
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\bin\Debug\Lab_POO.exe
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\bin\Debug\Lab_POO.pdb
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\obj\Debug\Lab_POO.csprojResolveAssemblyReference.cache
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\obj\Debug\Lab_POO.Form1.resources
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\obj\Debug\Lab_POO.Properties.Resources.resources
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\obj\Debug\Lab_POO.csproj.GenerateResource.Cache
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\obj\Debug\Lab_POO.exe
+c:\users\30122028\documents\visual studio 2015\Projects\Lab_POO\Lab_POO\obj\Debug\Lab_POO.pdb
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\bin\Debug\Lab_POO.exe.config
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\obj\Debug\Lab_POO.exe
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\obj\Debug\Lab_POO.pdb
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\bin\Debug\Lab_POO.exe
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\bin\Debug\Lab_POO.pdb
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\obj\Debug\Lab_POO.csprojResolveAssemblyReference.cache
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\obj\Debug\Lab_POO.Form1.resources
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\obj\Debug\Lab_POO.Properties.Resources.resources
+C:\Users\g301\Desktop\Lab_POO\Lab_POO\obj\Debug\Lab_POO.csproj.GenerateResource.Cache

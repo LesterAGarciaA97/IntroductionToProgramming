@@ -1,0 +1,11 @@
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\bin\Debug\Intro a la Progra.exe.config
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\bin\Debug\Intro a la Progra.exe
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\bin\Debug\Intro a la Progra.pdb
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro a la Progra.csprojResolveAssemblyReference.cache
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro_a_la_Progra.Administrador.resources
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro_a_la_Progra.Form1.resources
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro_a_la_Progra.Properties.Resources.resources
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro_a_la_Progra.votante.resources
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro a la Progra.csproj.GenerateResource.Cache
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro a la Progra.exe
+c:\users\axel rodriguez\documents\visual studio 2015\Projects\Intro a la Progra\Intro a la Progra\obj\Debug\Intro a la Progra.pdb

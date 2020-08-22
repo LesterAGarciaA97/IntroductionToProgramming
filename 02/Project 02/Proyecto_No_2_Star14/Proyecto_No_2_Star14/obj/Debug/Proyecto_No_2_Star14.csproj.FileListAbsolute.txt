@@ -1,0 +1,33 @@
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.exe.config
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.exe
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.pdb
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Form1.resources
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Juego.resources
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Properties.Resources.resources
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.exe
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.pdb
+C:\Users\Lester\Desktop\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Login.resources
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.exe.config
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.exe
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.pdb
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.exe
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.pdb
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Form1.resources
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Juego.resources
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Login.resources
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Properties.Resources.resources
+C:\Users\Lester\Desktop\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.csproj.GenerateResource.Cache
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.exe.config
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.exe
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.exe
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\bin\Debug\Proyecto_No_2_Star14.pdb
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.csprojResolveAssemblyReference.cache
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Form1.resources
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Juego.resources
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Login.resources
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.Properties.Resources.resources
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.csproj.GenerateResource.Cache
+C:\Users\admin1\Desktop\Nueva carpeta\Proyecto 2\Proyecto_No_2_Star14\Proyecto_No_2_Star14\obj\Debug\Proyecto_No_2_Star14.pdb

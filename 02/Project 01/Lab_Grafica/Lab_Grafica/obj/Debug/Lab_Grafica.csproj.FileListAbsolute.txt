@@ -1,0 +1,8 @@
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\bin\Debug\Lab_Grafica.exe.config
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\bin\Debug\Lab_Grafica.exe
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\bin\Debug\Lab_Grafica.pdb
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\obj\Debug\Lab_Grafica.Form1.resources
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\obj\Debug\Lab_Grafica.Properties.Resources.resources
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\obj\Debug\Lab_Grafica.csproj.GenerateResource.Cache
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\obj\Debug\Lab_Grafica.exe
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Grafica\Lab_Grafica\obj\Debug\Lab_Grafica.pdb

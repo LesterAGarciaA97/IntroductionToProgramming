@@ -1,0 +1,12 @@
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\bin\Debug\Clase_Motocicleta.exe.config
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\bin\Debug\Clase_Motocicleta.exe
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\bin\Debug\Clase_Motocicleta.pdb
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.csprojResolveAssemblyReference.cache
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.Form1.resources
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.Properties.Resources.resources
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.csproj.GenerateResource.Cache
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.exe
+C:\Users\Lester\Desktop\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.pdb
+C:\Users\Lester\Documents\Universidad Rafael Landívar\Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.6\Laboratorio No. 6\Clase_Motocicleta\Clase_Motocicleta\bin\Debug\Clase_Motocicleta.exe.config
+C:\Users\Lester\Documents\Universidad Rafael Landívar\Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.6\Laboratorio No. 6\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.exe
+C:\Users\Lester\Documents\Universidad Rafael Landívar\Segundo Ciclo 2015\Introducción a la Programación (Práctica)\Laboratorio No.6\Laboratorio No. 6\Clase_Motocicleta\Clase_Motocicleta\obj\Debug\Clase_Motocicleta.pdb

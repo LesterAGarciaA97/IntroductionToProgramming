@@ -1,0 +1,9 @@
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\bin\Debug\Lab_Repaso.exe.config
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\bin\Debug\Lab_Repaso.exe
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\bin\Debug\Lab_Repaso.pdb
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\obj\Debug\Lab_Repaso.csprojResolveAssemblyReference.cache
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\obj\Debug\Lab_Repaso.Form1.resources
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\obj\Debug\Lab_Repaso.Properties.Resources.resources
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\obj\Debug\Lab_Repaso.csproj.GenerateResource.Cache
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\obj\Debug\Lab_Repaso.exe
+C:\Users\30122028\Documents\Visual Studio 2015\Projects\Lab_Repaso\Lab_Repaso\obj\Debug\Lab_Repaso.pdb
